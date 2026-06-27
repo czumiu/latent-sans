@@ -1,4 +1,7 @@
-<img src="./cover.png" alt="Latent Sans cover image" />
+<picture>
+  <source srcset="./latent sans cover animated.svg" type="image/svg+xml">
+  <img src="./cover.png" alt="Latent Sans cover image">
+</picture>
 
 # Latent Sans
 
