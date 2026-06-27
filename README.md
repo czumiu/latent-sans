@@ -1,7 +1,4 @@
-<picture>
-  <source srcset="./latent sans cover animated.svg" type="image/svg+xml">
-  <img src="./cover.png" alt="Latent Sans cover image">
-</picture>
+![Latent Sans cover image](./latent%20sans%20cover%20animated.svg)
 
 # Latent Sans
 
@@ -41,7 +38,7 @@ Latent Sans sits somewhere between a handwritten sans, a children’s worksheet 
 
 Latent Sans is released under the **SIL Open Font License**.
 
-See [`OFL.txt`](./OFL.txt) for the full license text.
+See [`License`](./LICENSE.md) for the full license text.
 
 ## Feedback
 
